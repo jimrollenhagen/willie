@@ -20,7 +20,7 @@ source below.
 Latest source
 =============
 First, either clone the repository with ``git clone
-git://github.com/embolalia/willie.git`` or download a tarball from GitHub.
+git://github.com/jimrollenhagen/willie.git`` or download a tarball from GitHub.
 
 Note: willie requires Python 2.7 or Python 3.3 to run. On Python 2.7,
 willie requires ``backports.ssl_match_hostname`` to be installed. Use
